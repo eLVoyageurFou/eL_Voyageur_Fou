@@ -7,6 +7,10 @@
     color: #684580;
 }
 
+.blankforfooter {
+    color: white;
+}
+
 p {
   font-family: "Raleway", sans-serif;
   font-size: 2em;
@@ -39,6 +43,5 @@ body {
 }
 
 img:hover {
-  opacity: 0.5
+  opacity: 0.9
 }
-
