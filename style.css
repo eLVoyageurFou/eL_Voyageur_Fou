@@ -29,4 +29,16 @@ p {
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
+  text-align: center;
 }
+
+body {
+  background-image: url("background.JPG");
+  background-size:cover;
+  background-position: auto;
+}
+
+img:hover {
+  opacity: 0.5
+}
+
