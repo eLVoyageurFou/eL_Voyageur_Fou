@@ -1,6 +1,0 @@
-séparer avec :
-<span> </span>
-ntmant for color
-
-page avec
-a href = XX.html
